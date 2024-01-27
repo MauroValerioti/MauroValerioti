@@ -4,8 +4,10 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Star ⭐
+- 💚 Java Spring Developer
 - 📲 Web Developer Fullstack
+- 📊 Consultor Planning Analyst (ex Tm1 IBM)
 <br>
 
 
