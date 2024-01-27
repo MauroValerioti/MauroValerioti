@@ -26,9 +26,11 @@
 
 <h2> Frameworks: </h2>
 
-  [<code> <img src="https://skillicons.dev/icons?i=bootstrap"/> </code>](https://getbootstrap.com/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
-  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
+
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
+[<code> <img src="https://skillicons.dev/icons?i=vue"/> </code>](https://vuejs.org/)
+[<code> <img src="https://skillicons.dev/icons?i=bootstrap"/> </code>](https://getbootstrap.com/)
 
 <h2> Tecnologias y herramientas: </h2>
 
@@ -40,6 +42,8 @@
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> </code>](https://help.figma.com/hc/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" title="UML" alt="UML" width="50" height="40"/> </code>](https://www.uml-diagrams.org/)
 [<code> <img src="https://skillicons.dev/icons?i=aws"/> </code>](https://aws.amazon.com/)
+[<code> <img src="https://skillicons.dev/icons?i=postman"/> </code>](https://www.postman.com/)
+ 
 
 <h2> IDE's: </h2>
 
