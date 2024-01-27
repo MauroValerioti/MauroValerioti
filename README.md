@@ -21,8 +21,6 @@
 <h2> Bases de datos: </h2>
 
  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://https://www.postgresql.org/)
-  [<code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdIQXzF-dH-Wf4OjNX72NPheEQVvRJdGWWA&usqp=CAU" title="
-  MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> </code>](https://www.mongodb.com/es)
 
