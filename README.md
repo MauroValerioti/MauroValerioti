@@ -40,6 +40,7 @@
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> </code>](https://help.figma.com/hc/)
 [<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/800px-UML_logo.svg.png" title="UML" alt="UML" width="50" height="40"/> </code>](https://www.uml-diagrams.org/)
+[<code> <img src="https://skillicons.dev/icons?i=aws"/> </code>](https://aws.amazon.com/)
 
 <h2> IDE's: </h2>
 
