@@ -6,9 +6,40 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Web Developer Fullstack
-
 <br>
 
+
+<h2> Languajes: </h2>
+
+[<code target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></code>](https://www.oracle.com/ar/java/technologies/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> </code>](https://www.php.net/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> </code>](https://www.python.org/)
+[<code> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/> </code>](https://www.r-project.org/)
+
+
+<h2> Bases de datos: </h2>
+
+ [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> </code>](https://https://www.postgresql.org/)
+  [<code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdIQXzF-dH-Wf4OjNX72NPheEQVvRJdGWWA&usqp=CAU" title="
+  MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/> </code>](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </code>](https://www.mysql.com/)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> </code>](https://www.mongodb.com/es)
+
+<h2> Frameworks: </h2>
+  
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
+
+<h2> Tecnologias y herramientas: </h2>
+
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> </code>]
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></code>](https://www.docker.com/)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> </code>](https://git-scm.com/doc)
+  [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/></code>](https://support.atlassian.com/trello/docs/what-is-trello/)
+
+  
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
