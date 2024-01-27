@@ -27,7 +27,9 @@
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> </code>](https://www.mongodb.com/es)
 
 <h2> Frameworks: </h2>
+
   [<code> <img src="https://skillicons.dev/icons?i=bootstrap"/> </code>](https://getbootstrap.com/)
+  
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> </code>](https://es.reactjs.org/)
   [<code> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>](https://spring.io/)
 
