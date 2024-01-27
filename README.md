@@ -47,10 +47,6 @@
 [<code> <img src="https://skillicons.dev/icons?i=idea"/> </code>](https://www.jetbrains.com/idea/)
 [<code> <img src="https://skillicons.dev/icons?i=vscode"/> </code>](https://code.visualstudio.com/)
 
-  <a href="https://www.eclipse.org/"> <img src="https://skillicons.dev/icons?i=eclipse" /> </a>
-  <a href="https://www.jetbrains.com/idea/"> <img src="https://skillicons.dev/icons?i=idea" /> </a>
-  <a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" /> </a>
-
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
