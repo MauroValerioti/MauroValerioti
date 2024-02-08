@@ -1,13 +1,15 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/maurovalerioti/">Mauro Valerioti</a> 👋</h1>
+<h1 align="center">Hey there! I'm <a href="https://www.linkedin.com/in/maurovalerioti/">Mauro Valerioti</a> 👋</h1>
 </div>
 
-## Sobre mi
+## About Me
 
-- ⭐ Github Star ⭐
-- 💚 Java Spring Developer
-- 📲 Web Developer Fullstack
-- 📊 Consultor Planning Analyst (ex Tm1 IBM)
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓 I'm currently studying Systems engineering and Web Development at the University of UNICEN in Tandil.
+- 🌱 I'm on track for learning more about Java Development, Web Development, Front-End Development, and Back-End Development.
+- 📲 In my free time, I dedicate myself to developing web pages in Java with Spring Framework and React.
+- ✉️  You can shoot me an email at mauro.valerioti.18@gmail.com! I'll try to respond as soon as I can.
+- 📄  Please have a look at my <a href="https://drive.google.com/file/d/1g-0LytQj0Dnt8ngbTTc3HwYydE6kaxFh/view">CV</a> for more details about me. I'm open to feedback and suggestions!
 <br>
 
 
