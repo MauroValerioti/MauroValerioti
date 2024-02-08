@@ -1,4 +1,4 @@
-![My Github Intro](https://photos.app.goo.gl/Jc8fioJp2rC2j1E1A)
+![My Github Intro](https://photos.google.com/share/AF1QipONCJs1NbBtwHPn-x37CiBfJiIZPPTWpDLLTCz1aeRsaMOPlOhwsslkSiJoNi7vPg/photo/AF1QipME11JdEojwHVYNxxIP066Xi1hkPOSaJgw2nZqK?key=V1B3c21GNVpTeEVUNHVyWU4zaFNHYjF4R0pKbHRR)
 
 <div align="center">
 <h1 align="center">Hey there! I'm <a href="https://www.linkedin.com/in/maurovalerioti/">Mauro Valerioti</a> 👋</h1>
