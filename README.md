@@ -1,4 +1,4 @@
-![My Github Intro](https://photos.google.com/share/AF1QipONCJs1NbBtwHPn-x37CiBfJiIZPPTWpDLLTCz1aeRsaMOPlOhwsslkSiJoNi7vPg/photo/AF1QipME11JdEojwHVYNxxIP066Xi1hkPOSaJgw2nZqK?key=V1B3c21GNVpTeEVUNHVyWU4zaFNHYjF4R0pKbHRR)
+![My Github Intro](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/mk3Ew9MwlbcqZJba/img-YbNxzkRwGaHlxOXV.jpg)
 
 <div align="center">
 <h1 align="center">Hey there! I'm <a href="https://www.linkedin.com/in/maurovalerioti/">Mauro Valerioti</a> 👋</h1>
