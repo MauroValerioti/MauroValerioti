@@ -1,4 +1,7 @@
-![My Github Intro](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/mk3Ew9MwlbcqZJba/img-YbNxzkRwGaHlxOXV.jpg)
+<figure>
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/mk3Ew9MwlbcqZJba/img-YbNxzkRwGaHlxOXV.jpg">
+  <figcaption>the beautiful city of tandil. my city</figcaption>
+</figure>
 
 <div align="center">
 <h1 align="center">Hey there! I'm <a href="https://www.linkedin.com/in/maurovalerioti/">Mauro Valerioti</a> 👋</h1>
