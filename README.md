@@ -1,3 +1,5 @@
+![My Github Intro](https://photos.app.goo.gl/Jc8fioJp2rC2j1E1A)
+
 <div align="center">
 <h1 align="center">Hey there! I'm <a href="https://www.linkedin.com/in/maurovalerioti/">Mauro Valerioti</a> 👋</h1>
 </div>
