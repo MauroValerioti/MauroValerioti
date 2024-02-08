@@ -1,6 +1,6 @@
 <figure>
   <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/mk3Ew9MwlbcqZJba/img-YbNxzkRwGaHlxOXV.jpg" alt="Ciudad de Tandil">
-  <figcaption style="text-align: center;"> The beautiful city of Tandil. My city</figcaption>
+  <figcaption style="text-align: center;"> ✨ The beautiful city of Tandil. My city ✨ </figcaption>
 </figure>
 
 <div align="center">
