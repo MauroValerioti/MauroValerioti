@@ -14,7 +14,7 @@
 - 🌱 I'm on track for learning more about Java Development, Web Development, Front-End Development, and Back-End Development.
 - 📲 In my free time, I dedicate myself to developing web pages in Java with Spring Framework and React.
 - ✉️  You can shoot me an email at mauro.valerioti.18@gmail.com! I'll try to respond as soon as I can.
-- 📄  Please have a look at my <a href="https://drive.google.com/file/d/1g-0LytQj0Dnt8ngbTTc3HwYydE6kaxFh/view">CV</a> for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my <a href="https://drive.google.com/file/d/1rBpaE-RgtPlwg6HjD_DP1JLL_x7qNdCo/view?usp=sharing">CV</a> for more details about me. I'm open to feedback and suggestions!
 <br>
 
 
