@@ -17,6 +17,28 @@
 - 📄  Please have a look at my <a href="https://drive.google.com/file/d/1rBpaE-RgtPlwg6HjD_DP1JLL_x7qNdCo/view?usp=sharing">CV</a> for more details about me. I'm open to feedback and suggestions!
 <br>
 
+<h2> Data Visualization:  </h2>
+
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>
+  </a>
+  <a href="https://www.ibm.com/products/planning-analytics" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" title="IBM Planning Analytics / TM1" alt="IBM TM1" width="80" height="40"/>
+  </a>
+  <a href="https://powerquery.microsoft.com/" target="_blank">
+    <img src="https://seeklogo.com/images/P/power-query-logo-0F009D71DB-seeklogo.com.png" title="Power Query" alt="Power Query" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+  </a>
+</p>
 
 <h2> Programming Languages:  </h2>
 
