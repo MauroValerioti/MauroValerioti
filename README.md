@@ -11,8 +11,8 @@
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Systems engineering and Web Development at the University of UNICEN in Tandil.
-- 🌱 I'm on track for learning more about Java Development, Web Development, Front-End Development, and Back-End Development.
-- 📲 In my free time, I dedicate myself to developing web pages in Java with Spring Framework and React.
+- 🌱 I'm on track for learning more about Business Intelligence, Data Analysis & Data Science.
+- 📲 In my free time, I dedicate myself to discover new ways to analyse and use data. 
 - ✉️  You can shoot me an email at mauro.valerioti.18@gmail.com! I'll try to respond as soon as I can.
 - 📄  Please have a look at my <a href="https://drive.google.com/file/d/1rBpaE-RgtPlwg6HjD_DP1JLL_x7qNdCo/view?usp=sharing">CV</a> for more details about me. I'm open to feedback and suggestions!
 <br>
